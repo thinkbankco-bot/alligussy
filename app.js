@@ -9,7 +9,7 @@ const CONFIG = {
   chartUrl: '',      // https://dexscreener.com/solana/<CA>
   x: '',             // https://x.com/<handle>
   telegram: '',      // https://t.me/<group>
-  siteUrl: 'https://thinkbankco-bot.github.io/alligussy',       // set by deploy_pages.sh
+  siteUrl: 'https://alligussy.com',       // set by deploy_pages.sh
   milestone: 0,      // swamp map: 0 = Puddle … 5 = The Ocean; -1 = pre-launch
   petSeed: 48213,    // "everyone, allegedly"
 };
